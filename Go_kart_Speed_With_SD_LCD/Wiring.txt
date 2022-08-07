@@ -1,0 +1,36 @@
+SD Card
+=======
+CS-D4
+SCK-D13
+MOSI-D11
+MISO-D12
+VCC-5v rail
+GRD-GRD
+
+
+LCD Display
+===========
+K-GRD
+A-5v rail with 220 ohm resistor
+D7-D2
+D6-D3
+D5-D5
+D4-D6
+D3-
+D2-
+D1-
+D0-
+E-D9
+RW-GRD
+RS-D10
+V0-GRD
+VDD-5v rail
+Vss-GRD
+
+
+Hall Effect Sensor (from flat side)
+==================
+right-5v rail
+middle-A0
+left-GRD
+
